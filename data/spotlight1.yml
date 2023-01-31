@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Heading"
+title : "Lorem ipsum"
 content: |
-  Test
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada proin libero nunc consequat interdum varius. Varius morbi enim nunc faucibus a pellentesque sit. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare. Eu nisl nunc mi ipsum faucibus. Sed augue lacus viverra vitae congue eu consequat ac felis. Nullam non nisi est sit amet facilisis magna etiam. Nisi quis eleifend quam adipiscing. Dis parturient montes nascetur ridiculus mus mauris vitae. Volutpat est velit egestas dui id ornare arcu. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Duis ultricies lacus sed turpis. Nunc aliquet bibendum enim facilisis gravida neque convallis. Maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. Phasellus vestibulum lorem sed risus. Cras fermentum odio eu feugiat pretium nibh ipsum. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras.
 button: 
   label: "Learn More"
   link: "#"
