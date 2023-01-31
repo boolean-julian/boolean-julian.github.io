@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Julian Lüken"
+subtitle: |
+  Avid lover of all things Computer Science and Math.
+content : |
+
+button:
+  label : "Check Me Out"
+  link : "#first"
+image : "images/code012.png"
