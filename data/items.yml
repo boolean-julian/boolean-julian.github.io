@@ -5,7 +5,7 @@ style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "One"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Ja."
     style : "style2 major fa-gem"
 
   # feature item loop
