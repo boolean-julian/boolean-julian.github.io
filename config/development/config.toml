@@ -37,7 +37,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
   favicon = true
 
 [Params.social]
-  #github = "https://github.com/boolean-julian"
+  github = "https://github.com/boolean-julian"
   #twitter = "https://twitter.com/caressofsteel_"
   email = "julian-lueken@t-online.de"
   #instagram = "https://instagram.com"
