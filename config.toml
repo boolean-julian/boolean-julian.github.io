@@ -33,4 +33,4 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params]
 
-[Params.social] 
+[Params.social]
