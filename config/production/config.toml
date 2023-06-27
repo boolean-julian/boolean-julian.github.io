@@ -33,7 +33,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params]
   description = ""
-  logo = "images/code012.png"
+  logo = "static/favicon.ico"
   favicon = true
 
 [Params.social]
