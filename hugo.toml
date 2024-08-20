@@ -80,7 +80,7 @@ enableEmoji = true
     network = "googleplus"
 [[params.social]]
 	title = "linkedin"
-	url = "https://linkedin.com/in/julian-lüken-b11310298"
+	url = "https://www.linkedin.com/in/boolean-julian/"
     icon = "fab fa-linkedin"
     footer = true
     sharethis = true
