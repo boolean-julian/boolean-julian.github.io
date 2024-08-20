@@ -16,7 +16,7 @@ enableEmoji = true
     background = ""
     banner = "images/antwerp.jpg"
     favicon = "images/gt_favicon2.png"
-    DateForm = "January 2, 2006"
+    DateForm = ""
     author = "Julian Lüken"
 
     showSubheader = true

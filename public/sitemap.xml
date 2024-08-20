@@ -4,11 +4,11 @@
   <url>
     <loc>http://localhost:1313/home/downloads/download1/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/services/</loc>
-  </url><url>
     <loc>http://localhost:1313/home/recentworks/</loc>
   </url><url>
     <loc>http://localhost:1313/home/downloads/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/services/</loc>
   </url><url>
     <loc>http://localhost:1313/home/clients/</loc>
   </url><url>
