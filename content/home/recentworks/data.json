@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "AdAPTS - Simulation library for atom probe tomography",
+        "image": "images/s2.jpg",
+        "url": "https://academic.oup.com/mam/article/30/Supplement_1/ozae044.017/7719436",
+        "items": [
+            {
+                "name": "Read the article",
+                "url": "https://academic.oup.com/mam/article/30/Supplement_1/ozae044.017/7719436"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "CoolingGen - Generator for turbine blade cooling structures",
+        "image": "images/s1.jpg",
+        "url": "https://elib.dlr.de/194219/",
+        "items": [
+            {
+                "name": "Read the article",
+                "url": "https://elib.dlr.de/194219/"
+            }
+        ]
+    }
+]

@@ -2,10 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julian Lüken</title>
-    <link>https://boolean-julian.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Julian Lüken</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>{year}</copyright><atom:link href="https://boolean-julian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download original template</title>
+      <link>http://localhost:1313/home/downloads/download1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/downloads/download1/</guid>
+      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    <item>
+      <title>Vivamus Lacus Mauris</title>
+      <link>http://localhost:1313/post/vivamus-lacus-mauris/</link>
+      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/vivamus-lacus-mauris/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/subheader/</guid>
+      <description>Hello, world! &amp;#x1f44b;&#xA;I am currently a PhD candidate at the University of Antwerp, where I develop a numerical methods for atom probe tomography. This lets us see the atom-by-atom composition of a sample in 3D! &amp;#x1f52c; For my efforts thus far I was awarded a Student Scholar Award at the Microscopy and Microanalysis Conference 2024. &amp;#x1f3c6;&#xA;Before my PhD I worked at the German Aerospace Center (DLR), where I developed geometric methods for the design of turbine blade cooling structures.</description>
+    </item>
+    <item>
+      <title>Analytical Knowledge in Science</title>
+      <link>http://localhost:1313/home/services/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service1/</guid>
+      <description>&lt;p&gt;I possess a strong foundation in math, physics, and computer science, enabling me to approach complex problems with a systematic and logical mindset.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Analysis and Visualization Skills</title>
+      <link>http://localhost:1313/home/services/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service3/</guid>
+      <description>&lt;p&gt;I have a robust background in data analysis and visualization, enabling me to extract meaningful insights from complex datasets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Download HUGO template</title>
+      <link>http://localhost:1313/home/downloads/download2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/downloads/download2/</guid>
+      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    <item>
+      <title>Research and Development Acumen</title>
+      <link>http://localhost:1313/home/services/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service2/</guid>
+      <description>&lt;p&gt;I possess a solid acumen in research and development, with a focus on driving innovation and advancing scientific knowledge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Software Development Expertise</title>
+      <link>http://localhost:1313/home/services/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service4/</guid>
+      <description>&lt;p&gt;I have extensive experience in software development and programming, with a strong emphasis on creating efficient and scalable applications.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
