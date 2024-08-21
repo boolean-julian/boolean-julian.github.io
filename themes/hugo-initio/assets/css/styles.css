@@ -9,10 +9,18 @@ body {
   color: #666666;
   padding: 0;
   position: relative;
+  overflow-x: hidden;
 }
 .topspace {
   margin-top: 40px;
 }
+
+/* debug
+*{
+ outline: 1px solid red;
+}
+*/
+
 /*********************************************************************
 
 
