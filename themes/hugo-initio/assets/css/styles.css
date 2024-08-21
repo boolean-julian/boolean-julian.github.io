@@ -1,5 +1,6 @@
 html {
   font-size: 100%;
+  overflow-x: hidden;
 }
 body {
   font-size: 15px;
@@ -7,6 +8,7 @@ body {
   font-family: "Open sans", Helvetica, Arial, sans-serif;
   color: #666666;
   padding: 0;
+  position: relative;
 }
 .topspace {
   margin-top: 40px;
@@ -29,7 +31,7 @@ body {
   width: 100%;
 }
 .navbar.stick {
-  position: fixed;
+  /*position: fixed;*/ /* removed by julian */
   top: 0;
   left: 0;
   background-color: rgba(255, 255, 255, .85);
@@ -86,7 +88,7 @@ body {
   color: #000000;
 }
 .navbar-default .navbar-toggle {
-  border-color: #666666;
+  border-color: #666;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
